@@ -5,11 +5,10 @@ const { v4: uuidv4 } = require('uuid');
 
 
 module.exports = function(app) {
-    
+
     app.get("/api/notes", function (req, res) {
         console.log("GET");
         res.json(noteData);
-   
     });
     app.post("/api/notes", function (req, res) {
         if (noteData) {
