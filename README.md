@@ -7,9 +7,9 @@ I created this project to provide a simple and efficient note taking application
 
  
 ## Screenshots
-![screenshot of homepage](public/assets/images/screenshot1.png)
+![screenshot of homepage](./public/assets/images/screenshot1)
 
-![screenshot of notes page](public/assets/images/screenshot2.png)
+![screenshot of notes page](./public/assets/images/screenshot2)
 
 ## Tech/framework used
 Bootstrap
